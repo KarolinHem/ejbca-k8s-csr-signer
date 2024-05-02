@@ -1,6 +1,3 @@
-<!--EJBCA Community logo -->
-<a href="https://ejbca.org">
-    <img src=".github/images/community-ejbca.png?raw=true)" alt="EJBCA logo" title="EJBCA" height="70" />
 </a>
 <!--EJBCA Enterprise logo -->
 <a href="https://www.keyfactor.com/products/ejbca-enterprise/">
@@ -51,3 +48,12 @@ For license information, see [LICENSE](LICENSE).
 
 ## Related Projects
 See all [Keyfactor EJBCA GitHub projects](https://github.com/orgs/Keyfactor/repositories?q=ejbca). 
+## Documentation
+* [Getting Started](docs/getting-started.markdown)
+* Usage
+  * [Demo usage with Istio](docs/istio-deployment.markdown)
+  * [Runtime Customization](docs/annotations.markdown)
+  * [End Entity Name Selection](docs/endentitynamecustomization.markdown)
+* [Testing](docs/testing.markdown)
+* [License](LICENSE)
+
